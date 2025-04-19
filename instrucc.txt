@@ -1,0 +1,12 @@
+activar enlace
+uvicorn main:app --reload
+ en el env
+no funca, cd a backend
+uvicorn main:app --reload
+disponible en http://127.0.0.1:8000
+
+
+para correr el react
+cd frontend-react
+npm start
+se ve en el puerto 3000 creo
