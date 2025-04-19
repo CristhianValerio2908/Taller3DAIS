@@ -1,3 +1,7 @@
+entorno virtual
+pip install fastapi uvicorn sqlalchemy pyodbc bcrypt python-dotenv
+Instalar node js https://nodejs.org
+
 activar enlace
 uvicorn main:app --reload
  en el env
